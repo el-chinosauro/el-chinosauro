@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am a Postdoctoral Research Officer at the [Grantham Research Institute on Climate Change and the Environment](https://www.lse.ac.uk/granthaminstitute/) and a Visiting Research Fellow at the London School of Economics and Political Science.
+
 <!--
 **el-chinosauro/el-chinosauro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
