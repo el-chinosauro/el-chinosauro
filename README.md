@@ -2,14 +2,14 @@
 
 #### currently:
 
-- 💻 postdoctoral research officer at the [Grantham Research Institute on Climate Change and the Environment](https://www.lse.ac.uk/granthaminstitute/) + visiting research fellow at the [London School of Economics and Political Science](https://www.lse.ac.uk/geography-and-environment). 
+- 💻 assistant professor at the [IE University, School of Politics, Economics and Global Affairs](https://www.ie.edu/school-politics-economics-global-affairs/) + visiting research fellow at the [Grantham Research Institute on Climate Change and the Environment](https://www.lse.ac.uk/granthaminstitute/).
 
 #### at a glance:
 
-- 🌍 my work lies at the intersection of environmental and development economics, with a focus on the spatially heterogeneous impacts of public policy on human and ecological outcomes.
+- 🌍 my work lies at the intersection of environmental and development economics.
 - 🔥 my research couples causal inference with remotely sensed big data and georeferenced information.
 - ❤️ i am passionate about topics of environmental justice and environment-development tradeoffs.
-- 🌴 i also work on the economics of deforestation, carbon and biodiversity in tropical countries.
+- 🌴 i also work on the economics of biodiversity in tropical countries.
 
 #### find me also:
 
